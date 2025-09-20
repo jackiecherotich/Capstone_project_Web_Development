@@ -13,8 +13,8 @@ This website allows students to register, view courses, and manage profiles. It 
 ## Features
 - Responsive design for mobile and desktop
 - Form validation using JavaScript
-- Organized folder structure (HTML, CSS, JS, images)
+- Organized folder structure (HTML, CSS, JS)
 - Interactive elements for better UX
 
 ## Live URL
-[View the live site](https://<username>.github.io/student-portal/)
+[View the live site](https://jackiecherotich.github.io/Capstone_project_Web_Development/)
